@@ -71,6 +71,9 @@ Tabellenelemente sind besondere Elemente zur Strukturierung von Tabellen.
 | `<TR>` | Tabellenzeile (engl. table row) | Zeile mit Überschriften oder Daten in einer Tabelle; kann Tabellenüberschrifts- und Tabellendatenzellenelemente enthalten |
 | `<TD>` | Tabellendatenzelle | Tabellenzelle, die Daten enthält, die nicht als Überschrift fungieren |
 | `<TH>` | Tabellenüberschriftszelle (engl. table header) | Tabellenzelle, die Überschriftstext oder -daten enthält, die eine oder mehrere Zeilen oder Spalten der Tabelle beschreiben |
+| `<THead>` | Tabellenkopf (engl. table head) | Gruppierender Tag, dem Teile der Tabelle zugeordnet werden können |
+| `<TBody>` | Tabelleninhalt (engl. table body) | Gruppierender Tag, dem Teile der Tabelle zugeordnet werden können |
+| `<TFoot>` | Tabellenfuss (engl. table footer) | Gruppierender Tag, dem Teile der Tabelle zugeordnet werden können |
 
 ## Elemente auf Zeilenebene
 
