@@ -72,7 +72,7 @@ Die automatisch generierten Listen-*Tags* sind:
 	- `<LI>` = Container eines Listeneintrags
 		- `<LBody>` = Inhalt eines Listeineintrags
 
-PDF sieht eigentlich noch den *Tag* `<Lbl>` für das Aufzählungszeichen / die Nummerierungsziffer vor. Dies wird mit Word bisher nicht verwendet und es wird ebenfalls in `<LBody>` integriert. Die automatische Ausgabe ist daher nicht korrekt aber brauchbar. Die Verwendung von `<Lbl>` ist gemäss Standard nicht obligatorisch.
+PDF sieht eigentlich noch den *Tag* `<Lbl>` für das Aufzählungszeichen / die Nummerierungsziffer vor. Dies wird mit Word bisher nicht verwendet und es wird ebenfalls in `<LBody>` integriert. Die automatische Ausgabe ist daher nicht korrekt aber brauchbar. Die Verwendung von `<Lbl>` ist gemäss PDF-Standard nicht verpflichtend, laut PDF/UA-Standard semantisch aber erforderlich.
 
 ## Tabellen {#tabellen}
 
