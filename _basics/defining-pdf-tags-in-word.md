@@ -72,7 +72,7 @@ The automatically generated list tags are:
 	- `<LI>` = container of a list entry
 		- `<LBody>` = contents of a list entry
 
-PDF actually provides the tag `<Lbl>` for the bullet / the numbering digit. Word does not do this yet and integrates it into `<LBody>` as well. The automatic output is therefore not correct but useable. The use of `<Lbl>` is not mandatory by default.
+PDF actually provides the tag `<Lbl>` for the bullet / the numbering digit. Word does not do this yet and integrates it into `<LBody>` as well. The automatic output is therefore not correct but useable. The use of `<Lbl>` is not mandatory by the PDF standard, but required by semantic reasons for PDF/UA.
 
 ## Tables {#tables}
 
