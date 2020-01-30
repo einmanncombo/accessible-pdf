@@ -38,7 +38,7 @@ Der effizienteste Weg ist es die Artefakte bereits im Erstellungsprogramm zu bes
 
 ## Seitenbezogene Artefakte in InDesign
 
-Seitenzahlen, Kolumnentitel, etc. werden durch InDesign automatisch beim Export als Artefakte gekennzeichnet, wenn sie auf einer Musterseite platziert wurden.
+Seitenzahlen, Kolumnentitel, etc. werden durch InDesign automatisch beim Export als Artefakte gekennzeichnet, wenn sie auf einer Musterseite platziert wurden (ab Version CC2018).
 
 Dies bedeutet also auch, dass inhaltlich relevante Inhalte nicht  auf einer Musterseite stehen dürfen. Wenn beispielsweise der Titel nur auf einer Musterseite vorhanden ist, wird er auch nicht ausgegeben.
 
