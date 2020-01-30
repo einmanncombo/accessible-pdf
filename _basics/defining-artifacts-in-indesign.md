@@ -36,7 +36,7 @@ The most efficient way is to determine the artifacts already in the creation pro
 
 ## Page-related artifacts in InDesign
 
-Page numbers, running titles, etc. are automatically marked as artifacts by InDesign during export if they have been placed on a master page.
+Page numbers, running titles, etc. are automatically marked as artifacts by InDesign (CC2018 and above) during export if they have been placed on a master page.
 
 This also means that relevant content must not appear on a master page. For example, if the title only exists on a master page, it won’t be output.
 
